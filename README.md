@@ -63,8 +63,8 @@ No se requiere ninguna clave de API ni registro previo.
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL-del-repositorio>
-cd <nombre-del-repositorio>
+git clone https://github.com/agustinmedina-wq/pronostico-macroeconomico-ml.git
+cd pronostico-macroeconomico-ml
 ```
 
 ### 2. Crear un entorno virtual (recomendado)
@@ -103,6 +103,5 @@ Ver `requirements.txt` para la lista completa.
 ## Autores
 
 Trabajo grupal — Ingeniería Comercial, Universidad Diego Portales.
+Alumnos: Sergio Dominguez, Agustin Medina, Nicolas Melipil, Omar Zavala
 Profesor: Luis Cuevas Parra.
-
-*(Reemplazar esta sección con los nombres de los integrantes del grupo)*
