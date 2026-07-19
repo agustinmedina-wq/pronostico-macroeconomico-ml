@@ -103,5 +103,7 @@ Ver `requirements.txt` para la lista completa.
 ## Autores
 
 Trabajo grupal — Ingeniería Comercial, Universidad Diego Portales.
+
 Alumnos: Sergio Dominguez, Agustin Medina, Nicolas Melipil, Omar Zavala
+
 Profesor: Luis Cuevas Parra.
