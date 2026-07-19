@@ -33,8 +33,7 @@ boosting secuencial aporta ventajas sobre el bagging del Random Forest.
 ```
 ├── Portafolio_Ciencias_Datos.ipynb   # Cuaderno principal con todo el análisis
 ├── README.md                         # Este archivo
-├── requirements.txt                  # Dependencias del proyecto
-└── presentacion/                     # (opcional) Slides y guion de la exposición
+└── requirements.txt                  # Dependencias del proyecto
 ```
 
 ## Estructura del cuaderno
