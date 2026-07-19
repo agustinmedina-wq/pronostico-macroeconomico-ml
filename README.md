@@ -28,12 +28,15 @@ boosting secuencial aporta ventajas sobre el bagging del Random Forest.
 
 **Métricas de evaluación:** RMSE (principal), MAE, R²
 
-## Estructura del repositorio 
+## Estructura del repositorio
 
+```
 ├── Portafolio_Ciencias_Datos.ipynb   # Cuaderno principal con todo el análisis
 ├── README.md                         # Este archivo
 ├── requirements.txt                  # Dependencias del proyecto
 └── presentacion/                     # (opcional) Slides y guion de la exposición
+```
+
 ## Estructura del cuaderno
 
 1. Resumen del paper
@@ -47,7 +50,12 @@ boosting secuencial aporta ventajas sobre el bagging del Random Forest.
 ## Fuente de datos
 
 Los datos se descargan **directamente desde el notebook**, sin necesidad de archivos
-adicionales, desde el sitio oficial de la Reserva Federal de St. Louis: https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/fred-md/monthly/current.csv
+adicionales, desde el sitio oficial de la Reserva Federal de St. Louis:
+
+```
+https://www.stlouisfed.org/-/media/project/frbstl/stlouisfed/research/fred-md/monthly/current.csv
+```
+
 No se requiere ninguna clave de API ni registro previo.
 
 ## Instrucciones de ejecución
@@ -96,4 +104,5 @@ Ver `requirements.txt` para la lista completa.
 
 Trabajo grupal — Ingeniería Comercial, Universidad Diego Portales.
 Profesor: Luis Cuevas Parra.
-Alumnos: Sergio Dominguez, Agustin Medina, Nicolas Melipil, Omar Zavala
+
+*(Reemplazar esta sección con los nombres de los integrantes del grupo)*
